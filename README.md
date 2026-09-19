@@ -159,7 +159,7 @@
 <br/>
 
 <p align="center">
-  <sub style="color: #DE7793; letter-spacing: 1px;"><b>Synchronized with precision • Styled with Denia's Pink Aesthetic (#F29FB0)</b></sub>
+  <sub style="color: #DE7793; letter-spacing: 1px;"><b>Synchronized With Precision • Styled With Denia Pink Aesthetic (#F29FB0)</b></sub>
 </p>
 
 </div>
